@@ -1,0 +1,109 @@
+:root {
+	--background: #FFFFFF;
+	--text: #111111;
+	--navbg: #6BBDD6;
+	--navborder: #007B9C;
+}
+
+:link {
+	color: #23238E;
+}
+
+:visited {
+	color: #008088;
+}
+
+body {
+	background-color: var(--background);
+	color: var(--text);
+	margin: 15px auto;
+	padding: 0 10px;
+}
+
+code, tt, pre {
+	white-space: pre-wrap;
+}
+
+@media (min-width: 800px) {
+	body {
+		max-width: 85%;
+	}
+}
+
+#project-main {
+	height: 100%;
+	max-width: 1280px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	top: 0;
+	display: table;
+	padding: 0;
+	margin: 0;
+}
+
+#project-main nav,
+#project-main article {
+	display: table-cell;
+	padding: 4px;
+}
+
+#project-main article {
+	padding: 4px;
+	padding-left: 32px;
+	padding-right: 32px;
+}
+
+#project-main nav header {
+	margin: 0;
+	font-size: 15pt;
+	font-weight: bolder;
+	white-space: nowrap;
+}
+
+#project-main nav ul {
+	margin-top: 0;
+	margin-bottom: 1em;
+	padding-left: 0;
+}
+
+#project-main nav li {
+	list-style-type: none;
+	list-style-position: inside;
+	margin-left: 0.5em;
+}
+
+#project-main main,
+#project-main footer {
+	display: table-row;
+}
+
+#project-main nav {
+	vertical-align: top;
+	border-right: 11px solid;
+	background-color: var(--navbg);
+	border-color: var(--navborder);
+	max-width: 192px;
+}
+
+.no-bullet {
+	list-style-type: none;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--background: #1E1F21;
+		--text: #EEEFF1;
+		--navbg: #202F51;
+		--navborder: #97BADB;
+	}
+	
+	:link {
+		color: #BAD7FF;
+	}
+
+	:visited {
+		color: #F6BAFF;
+	}
+}
