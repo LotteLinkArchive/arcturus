@@ -4,15 +4,15 @@
 			If you need to contact me, that's okay, there are plenty of ways to do that!
 		</p>
 		<ul class="no-bullet">
-			<li><details>
+			<li><details open="true">
 				<summary><a href="mailto:naphtha@lotte.link">E-Mail</a></summary>
 				<p><code>naphtha@lotte.link</code> - Please use <a href="pgp.php">PGP</a> if possible!</p>
 			</details></li>
-			<li><details>
+			<li><details open="true">
 				<summary><a href="https://matrix.lotte.link/">Matrix</a></summary>
 				<p>You can message me at <code>@naphtha:matrix.lotte.link</code></p>
 			</details></li>
-			<li><details>
+			<li><details open="true">
 				<summary><a href="https://keybase.io/naphtha/">Keybase</a></summary>
 				<p>Be careful - I don't check this often.</p>
 			</details></li>
