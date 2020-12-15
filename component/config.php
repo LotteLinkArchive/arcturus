@@ -28,7 +28,8 @@ $navel = array(
 		"Source Info" => "/sourceinfo.php",
 	),
 	"Friends" => array(
-		"Crossroads" => "https://crossroads.lotte.link"
+		"Crossroads" => "https://crossroads.lotte.link",
+		"Users" => "https://usr.lotte.link"
 	),
 	"Resources" => array(
 		"FAQ" => "/faq.php",
