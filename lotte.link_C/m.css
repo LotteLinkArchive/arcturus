@@ -1,0 +1,13 @@
+body{
+   background-image: url("m.png");
+   background-color: #000;
+   background-position: center;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   min-height: 100%;
+   
+   color: #000;
+   font-family: monospace, monospace;
+   
+   text-align: center;
+}
