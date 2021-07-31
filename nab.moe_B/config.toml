@@ -1,0 +1,38 @@
+baseURL = "https://nab.moe/"
+languageCode = "en-us"
+title = "nab.moe / nablachi"
+theme = "smol"
+copyright = "Nablachi"
+
+[params]
+    subtitle = "utterly Deranged anime girl on the internet"
+    dateFmt = "2006.02.01 15:04"
+
+[menu]
+  [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1 
+
+  [[menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories/"
+        weight = 2 
+
+  [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 3
+
+  [[menu.footer]]
+        name = "PGP Key"
+        url = "/pgp/4220e5624ba048ad5cc3765e00e6778c91ff0d5a.asc"
+        weight = 1 
+
+  [[menu.footer]]
+        name = "Git"
+        url = "https://git.nab.moe/"
+        weight = 2 
