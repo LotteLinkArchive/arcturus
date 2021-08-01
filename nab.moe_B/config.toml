@@ -6,33 +6,39 @@ copyright = "Nablachi"
 
 [params]
     subtitle = "utterly Deranged anime girl on the internet"
-    dateFmt = "2006.02.01 15:04"
+    dateFmt = "2006.01.02 15:04"
 
 [menu]
   [[menu.main]]
         identifier = "posts"
-        name = "Posts"
+        name = "posts"
         url = "/posts/"
         weight = 1 
 
   [[menu.main]]
         identifier = "categories"
-        name = "Categories"
+        name = "categories"
         url = "/categories/"
         weight = 2 
 
   [[menu.main]]
         identifier = "tags"
-        name = "Tags"
+        name = "tags"
         url = "/tags/"
         weight = 3
+        
+  [[menu.main]]
+        identifier = "about"
+        name = "about"
+        url = "/about/"
+        weight = 4
 
   [[menu.footer]]
-        name = "PGP Key"
+        name = "PGP key"
         url = "/pgp/4220e5624ba048ad5cc3765e00e6778c91ff0d5a.asc"
         weight = 1 
 
   [[menu.footer]]
-        name = "Git"
+        name = "git"
         url = "https://git.nab.moe/"
         weight = 2 
