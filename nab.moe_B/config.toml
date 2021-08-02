@@ -4,6 +4,12 @@ title = "nablachi / nab.moe"
 theme = "smol"
 copyright = "Nablachi"
 
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1
+
 [params]
     subtitle = "utterly Deranged anime girl on the internet"
     dateFmt = "2006.01.02 15:04"
