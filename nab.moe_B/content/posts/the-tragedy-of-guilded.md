@@ -137,6 +137,8 @@ Discord had (and actually still has) a similar issue whereby there is no scrollb
 
 additionally, Guilded's channel list is actually slightly too wide for my liking and takes up more screen real estate on my terrible laptop display than i feel comfortable with. chat clients like [Element](https://element.io/) allow you to resize things like the channel/room list and member list, whereas Discord and Guilded do not.
 
+it should also be noted that Guilded does not have a button to jump to the most recent message, and also has no feature for searching through messages, potentially because the developers may not yet know how to efficiently implement this at such a large scale. (thanks [@n_cryptid](https://nitter.actionsack.com/n_cryptid))
+
 # "i don't care about any of this, it doesn't affect me."
 
 a lot of people tell me that these issues don't matter to them and thus Guilded is better than Discord for them. that's great, except *we live in a society*. i'm serious - this is a chat program. you know what the network effect is, right? since practically every popular chat program uses Electron nowadays, it's not exactly easy for many people to run several different ones all at once. therefore, *we need a chat client that works for everybody*, and we need it to be the one that everybody uses. Guilded is not that - it is *less* accessible, it is *harder* to install on many platforms than Discord is, and it doesn't solve any of the issues that made Discord difficult to use for people. we need something better than Discord for this, not ***worse***.
