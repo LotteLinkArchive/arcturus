@@ -4,7 +4,7 @@ date: 2021-07-31T18:33:24+01:00
 draft: false
 ---
 
-welp, looks like this is gonna be my first post here! apoligies if it's a little unstructued and ranty, there's a lot to say after all!
+welp, looks like this is gonna be my first post here! apologies if it's a little unstructued and ranty, there's a lot to say after all!
 
 anyway if you haven't heard of it yet somehow, [Guilded](https://guilded.gg/) is a chat client that intends to replace [Discord](https://discordapp.com/). no, really. they're pretty serious about it. their motto is even "Drop Discord, Get Guilded" - it's pretty upfront if you ask me.
 
@@ -128,6 +128,14 @@ oh dear...
 see that? "We do not rent or sell your Personal Information *in personally identifiable form*" - in other words, they **do** sell your data, they just claim to "de-identify" it. this de-identification process is bogus, this is still an invasion of privacy. there have been high-profile cases where de-identified data has been collected and combined with other de-identified datasets to form new datasets that actually de-anonymize users, which suggests that there are low-profile cases too. we still have no idea what data they're collecting (it could be your actual messages for all we know, which is a pretty difficult to anonymize, even if it might be legally considered anonymized just because of the lack of associated user account), we have no idea who is buying this data, and what they're doing with it.
 
 any form of data collection that isn't actually required for the functionality of the program, and any form of selling user data, ought to be frowned upon. maybe you could make the excuse that every other platform does it, and fine, but that doesn't excuse Guilded outright providing misleading/confusing information in their marketing material like this. besides, just because every other company does it doesn't make it good. we need to break out of this mess by refusing to give these companies what they want, and that needs to start somewhere.
+
+## mice begone
+
+Guilded lacks a lot of keyboard navigation shortcuts that Discord had. for example, you can not press page up or page down in the chat window to scroll up and down, you *must* use a scrollwheel. this is infuriating on laptops, because it is extremely unnatural to have to use a scrollwheel to read the chat, and the scroll bar on the side of the chat is too thin to grab onto most of the time, leading to a very clunky UI experience.
+
+Discord had (and actually still has) a similar issue whereby there is no scrollbar for the server list on the left side of the client, meaning laptop users with no touchpad scroll system (or laptop users who actively refuse to use the janky touchpad scroll feature) are forced to navigate the server list using the arrow keys, which they can at least still do.
+
+additionally, Guilded's channel list is actually slightly too wide for my liking and takes up more screen real estate on my terrible laptop display than i feel comfortable with. chat clients like [Element](https://element.io/) allow you to resize things like the channel/room list and member list, whereas Discord and Guilded do not.
 
 # "i don't care about any of this, it doesn't affect me."
 
