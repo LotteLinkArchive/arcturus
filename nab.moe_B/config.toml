@@ -1,8 +1,8 @@
-baseURL = "https://nab.moe/"
+baseURL = "https://kiera.akagi.moe/"
 languageCode = "en-us"
-title = "nablachi / nab.moe"
+title = "kiera"
 theme = "smol"
-copyright = "Nablachi"
+copyright = "Kiera Akagi"
 
 [markup]
   [markup.tableOfContents]
