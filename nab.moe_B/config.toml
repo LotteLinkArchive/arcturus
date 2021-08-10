@@ -1,6 +1,6 @@
 baseURL = "https://kiera.akagi.moe/"
 languageCode = "en-us"
-title = "kiera"
+title = "nablachi"
 theme = "smol"
 copyright = "Kiera Akagi"
 
@@ -38,6 +38,12 @@ copyright = "Kiera Akagi"
         name = "about"
         url = "/about/"
         weight = 4
+        
+  [[menu.main]]
+        identifier = "akagi"
+        name = "akagi"
+        url = "https://akagi.moe/"
+        weight = 5
 
   [[menu.footer]]
         name = "PGP key"
